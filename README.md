@@ -12,7 +12,6 @@ public class Main {
              if ((i % 3 == 0) && (i % 4 == 0)){
                  sayac += 1;
                  toplam += i;
-              
              }
          }
          if (sayac > 0){
